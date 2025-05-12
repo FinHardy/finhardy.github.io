@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Fintan Hardy"
 title_separator          : "-"
 name                     : &name "Fintan Hardy"
@@ -21,7 +21,7 @@ repository               : "FinHardy/fintanhardy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.JPG"
+  avatar           : "profile_pic.png"
   name             : "Fintan Hardy"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Material Science"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=eoYZqtkAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-1927-3995"
   semantic         : # URL
