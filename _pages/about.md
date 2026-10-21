@@ -15,11 +15,11 @@ My name is Fintan Hardy,  I'm currently a Third year PhD student at Imperial Col
 
 ## My Work
 
-Modern electron microscopes are getting faster, and every scan now produces huge amounts of data. Analysis methods have not kept up. In ferroelectric research, for example, polar domains cannot be determined from the raw data and are usually mapped offline, after the experiment has finished. Only then can you work out what the domains were doing while you were at the microscope.
+Modern electron microscopes are getting faster and faster, with every scan now producing GBs of data and modern analysis methods are not keeping pace. In ferroelectric research, for example, polar domains cannot be determined from simply looking at the raw data and are usually mapped offline and so you can only see how the material was responding to your experiments after you have finished at the microscope.
 
-My work uses custom artificial intelligence models that analyse these large datasets during the scan itself. Microscopists can then see what the material is doing as it happens and decide in the moment how best to probe its ferroelectric behaviour. In short, the analysis closes the loop between measurement and decision.
+My work uses custom artificial intelligence models that analyse these large datasets during the scan itself. Microscopists can then see what the material is doing as it happens and decide in the moment how best to investigate its ferroelectric behaviour. This work helps close the loop between measurement and decision.
 
-I’m also working towards fully autonomous microscopy. In this setup, the analysed data feeds into a model running alongside the microscope that chooses the next step of the experiment. This lets long, complex experiments run overnight with high precision and without someone having to sit at the instrument.
+I’m also working towards fully autonomous microscopy. In this setup, the analysed data feeds into a model running alongside the microscope that chooses the next step of the experiment. This lets long, complex experiments run overnight with high precision and without someone having to sit at the instrument. This technology is extremely important for future self driving labs.
 
 I am also interested in materials design and synthesisability of materials that can fit into this experimental loop.
 
