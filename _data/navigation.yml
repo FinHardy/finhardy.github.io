@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=eoYZqtkAAAAJ/
+    url: https://scholar.google.com/citations?user=eoYZqtkAAAAJ&hl=en
 
   - title: "Talks"
     url: /talks/    
