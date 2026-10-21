@@ -4,6 +4,8 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+All my slide decks can be found on my [speakerdeck ](https://speakerdeck.com/finhardy)account
+
 **2025:**
 
 - *Talk*: Accelerated Identification of Polar Domains From 4D-STEM Using Group Convolutional Neural Networks
@@ -13,7 +15,8 @@ author_profile: true
 
 **2026:**
 
-- *Talk:* Ferroelectrics: From Latent to Lattice.Future of Materials Design International Workshop (organised by the Walsh Group), National University of Singapore, 2026.
+- *Talk:* Ferroelectrics: From Latent to Lattice.
+  - Future of Materials Design International Workshop (organised by the Walsh Group), National University of Singapore, 2026.
 - *Talk:* Closing the Feedback Loop: Live Polarization Analysis for Automated In Situ 4D-STEM.
   - For the symposium: Living on the Edge: Real-Time Processing and Decision Making at the Microscope. Microscopy & Microanalysis 2026, Milwaukee, USA
 - *Workshop:* A two-part lecture and tutorial on the fundamentals of machine learning and neural networks to postgraduate students and postdocs in the
